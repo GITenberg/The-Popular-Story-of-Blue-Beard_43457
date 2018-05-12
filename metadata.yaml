@@ -1,0 +1,36 @@
+_repo: The-Popular-Story-of-Blue-Beard_43457
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Hall, John H.
+    gutenberg_agent_id: '42223'
+    url: http://www.gutenberg.org/2009/agents/42223
+covers:
+- cover_type: archival
+  image_path: 43457-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_issued: '2013-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bluebeard (Legendary character) -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Curiosity -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Popular Story of Blue Beard
+url: http://www.gutenberg.org/ebooks/43457
